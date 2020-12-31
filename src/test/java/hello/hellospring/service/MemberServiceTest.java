@@ -12,7 +12,7 @@ import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class MemberServiceTest {
+class MemberServiceTest { // 단위테스트가 좋은 테스트
 
     MemberService memberService;
     MemoryMemberRepository memberRepository;
